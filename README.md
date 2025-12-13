@@ -37,3 +37,5 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 - You may need to add more selectors to your CSS file. The first few exercises have almost everything already done for you, but as you progress, you'll find that you need to add more and more selectors to get the correct result.
 
 ## Some Hints Test commit Sojkyc 2
+
+https://floencz.github.io/css-exercises/
